@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(to bottom, #1c1f26, #3a3f4b);
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  color: #FFFFFF; 
+}
+
+a {
+  color: #A7C4BC; 
+}
+
+.btn-custom {
+  background-color: #6FFFE9; 
+  border-color: #6FFFE9;
+  color: #222222; 
+  transition: background-color 0.3s, color 0.3s; 
+}
+
+.btn-custom:hover {
+  background-color: #F0F8FF; 
+  border-color: #6FFFE9;
+  color: #222222; 
+}
+
+.navbar {
+    background-color: #3A506B; 
+}
+
+.navbar-brand {
+    color: #FFFFFF; 
+}
+
+.nav-link {
+    color: #A7C4BC; 
+}
+
+mark {
+  background-color: yellow; 
+  color: black;
+  padding: 0 2px;
+  border-radius: 2px;
+  font-size: inherit; 
+  line-height: inherit; 
+}
+
+
+
+
+

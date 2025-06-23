@@ -1,0 +1,125 @@
+body {
+  background-color: #1c1f26;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  color: #FFFFFF;
+}
+
+a {
+  color: #A7C4BC;
+  text-decoration: none;
+}
+
+button {
+  background-color: #A7C4BC;
+  color: #22333B;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #FFFFFF;
+  color: #22333B;
+}
+
+.nav-link-clean {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-weight: 500;
+}
+
+.nav-link-clean:hover {
+  color: #0dcaf0; /* колір як у кнопки Пошук */
+}
+
+.site-title {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.site-title:hover {
+  color: white; /* щоб не змінювався при наведенні */
+  cursor: default;
+}
+
+
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+
+body {
+  background-color: #1c1f26;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  color: #FFFFFF;
+}
+
+a {
+  color: #A7C4BC;
+  text-decoration: none;
+}
+
+button {
+  background-color: #A7C4BC;
+  color: #22333B;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #FFFFFF;
+  color: #22333B;
+}
+
+.nav-link-clean {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-weight: 500;
+}
+
+.nav-link-clean:hover {
+  color: #0dcaf0; /* колір як у кнопки Пошук */
+}
+
+.site-title {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.site-title:hover {
+  color: #0dcaf0; /* щоб не змінювався при наведенні */
+  cursor: default;
+}
+
+
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+
+
